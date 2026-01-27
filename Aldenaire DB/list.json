@@ -29,11 +29,6 @@
         "username": "simsime0808",
         "server_name": "[ 준사 | 보병대대 부관 ] 심심이"
     },
-    "708274928360751186": {
-        "global_name": "카림",
-        "username": "karim_0105",
-        "server_name": "[ 일등병 | 내각호위대대 ] 카림"
-    },
     "1003635905422168145": {
         "global_name": "10000찬",
         "username": "xoqor0504",
@@ -48,16 +43,6 @@
         "global_name": "gg3",
         "username": "diver_.1234",
         "server_name": "[ 하등병 | 제107공수대대 ] 다이버"
-    },
-    "856775767107436584": {
-        "global_name": "땅콩이",
-        "username": "duck1_3",
-        "server_name": "[ 하등병 | 제107공수대대 ] 땅콩"
-    },
-    "938703449061736480": {
-        "global_name": "あおる",
-        "username": "aoru._",
-        "server_name": "[ 일등병 | 항공대대 ] 제이콥"
     },
     "538660901402968075": {
         "global_name": "♒",
@@ -1089,11 +1074,6 @@
         "username": "wodyd0604",
         "server_name": "[ 하등병 | 보병대대 ] 우디"
     },
-    "842018013640392725": {
-        "global_name": "운없는개",
-        "username": "unlucky_dog33032",
-        "server_name": "[ 하등병 | 보병대대 ] 운없개"
-    },
     "1120259159632388126": {
         "global_name": "워즈",
         "username": "wasjqwty",
@@ -1269,4 +1249,5 @@
         "username": "ddzoyy",
         "server_name": "[하등병 | 보병대대 ] 누구야"
     }
+
 }
